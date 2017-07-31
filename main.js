@@ -1,1 +1,3 @@
-console.log("hello world");
+
+var cat = "fluffy";
+console.log("hello world", cat);
